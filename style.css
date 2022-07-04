@@ -44,3 +44,24 @@ h1 {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.exp-section {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.exp-item {
+    width: 40%;
+    margin: 0 5%;
+    padding: 10px;
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 10px;
+}
+
+#pro {
+    border-left: 7px solid orangered;
+}
+
+#baby {
+    border-left: 7px solid blue;
+}
